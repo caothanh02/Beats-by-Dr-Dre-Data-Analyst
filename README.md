@@ -7,3 +7,5 @@ The project focuses on analyzing reviews of different Bluetooth speaker products
 - From customer feedback, propose product improvements to enhance customer satisfaction.
 
 - Recommend marketing activities to help the product reach a wider audience.
+
+The dataset consists of customer reviews for 11 different portable Bluetooth speaker products available on Amazon, including the Beats Pill. These speakers come from leading brands known to be major competitors of Beats, such as JBL, Bose, Sony, W-King, and Tribit. All the products have the same price range and key features such as portability, Bluetooth connectivity, battery capacity, and weight. The raw data was collected on September 4th, 2024, using the oxlab.io website.
