@@ -1,3 +1,5 @@
+This project is part of an externship program with Beats by Dre on Extern.com. Participants in the program experience the role of a Data Analyst at Beats, analyzing and developing the company’s audio products.
+
 The project focuses on analyzing reviews of different Bluetooth speaker products, including the Beats Pill, currently sold on Amazon. In this project, I will apply my key skills at EDA, Sentiment analysis and generative AI to achieve the following key objectives:
 
 - Understand the overall Bluetooth speaker market, the level of competition, and the strengths and weaknesses of each product.
